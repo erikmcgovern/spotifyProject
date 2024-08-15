@@ -16,3 +16,5 @@ sp = spotipy.Spotify(
         scope='user-top-read'
     )
 )
+
+print('test')
