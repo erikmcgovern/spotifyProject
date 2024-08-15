@@ -19,4 +19,4 @@ REDIRECT_URI = 'http://localhost:5000'
 
 
 print('Hello')
-print('commit')
+print('bye world')
